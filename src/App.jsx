@@ -11,6 +11,7 @@ function App() {
   // use is to get the reference of the input field to copy the password
   const passwordRef = useRef(null);
 
+  // useCallback hook to generate password
   const passwordGenerator = useCallback( () => {
     let pass = "";
     let str = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";

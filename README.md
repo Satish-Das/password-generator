@@ -1,13 +1,12 @@
 # Password Generator
 
-A simple password generator that allows users to customize the length and complexity of their password.
+A simple password generator built using **React** that allows users to customize the length and complexity of their password.
 
 ## Features
 - **Adjustable Length**: Modify the password length using a slider.
 - **Include Symbols**: Option to include symbols in the password.
 - **Include Numbers**: Option to include numbers in the password.
 - **Copy to Clipboard**: Easily copy the generated password with a single click.
-
 
 ## How It Works
 1. Move the slider to set the desired password length.
@@ -16,6 +15,12 @@ A simple password generator that allows users to customize the length and comple
 
 ## Usage
 This tool is perfect for creating secure and unique passwords for your accounts or projects.
+
+*Developed for enhanced password security and user customization.*
+
+## Technologies Used
+- **React**: Used for building the user interface.
+- **CSS**: For styling the components and layout.
 
 ---
 *Developed for enhanced password security and user customization.*

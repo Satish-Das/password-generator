@@ -21,7 +21,7 @@ This tool is perfect for creating secure and unique passwords for your accounts 
 *Developed for enhanced password security and user customization.*
 
 ## Screenshot
-![Password-Generator](./public/screenshot/default.png)
-![Password-Generator](./public/screenshot/WithNumbers.png)
-![Password-Generator](./public/screenshot/symbols.png)
-![Password-Generator](./public/screenshot/both-number-symbols.png)
+(./public/screenshot/default.png)
+(./public/screenshot/WithNumbers.png)
+(./public/screenshot/symbols.png)
+(./public/screenshot/both-number-symbols.png)
